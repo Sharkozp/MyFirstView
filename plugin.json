@@ -1,0 +1,8 @@
+{
+  "name": "MyFirstView",
+  "description": "My first back end view",
+  "namespace": "MyFirstView",
+  "author": "Sharko",
+  "type": "backend",
+  "serviceProvider": "MyFirstView\\Providers\\MyFirstViewServiceProvider"
+}
