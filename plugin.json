@@ -2,7 +2,7 @@
   "name": "MyFirstView",
   "description": "My first back end view",
   "namespace": "MyFirstView",
-  "author": "Sharko",
+  "author": "Sharkozp",
   "type": "backend",
   "serviceProvider": "MyFirstView\\Providers\\MyFirstViewServiceProvider"
 }
